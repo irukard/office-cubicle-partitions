@@ -12,16 +12,16 @@ Affordable office cubicle partitions for 160x80cm desk mounted in non-invasive m
 | A02 | Ikea SKÅDIS Connector, white                           | 103.207.89                                        | 4      | 15,00PLN  | 60,00PLN   | [Link](https://www.ikea.com/pl/pl/p/skadis-zlacze-bialy-10320789/) |
 | A03 | Ikea SKÅDIS Connector for SKÅDIS pegboards, white      | 404.776.46                                        | 1      | 3,50PLN   | 3,50PLN    | [Link](https://www.ikea.com/pl/pl/p/skadis-lacznik-do-tablic-narz-skadis-bialy-40477646/) |
 | B01 | Felt with adhesive                                     | 1,5m wide, 650g/m²                                | 1,65 m | 60,30PLN  | 99,50PLN   | [Link](https://allegro.pl/oferta/filc-samoprzylepny-szary-4-5mm-650g-sztywny-ladny-8577845682) |
-| H01 | Screw                                                  | M4 25mm<br/>DIN 7985                              | 16     |           |            |      |
-| H02 | Washer                                                 | M4<br/>DIN 125                                    | 16     |           |            |      |
-| H03 | Wood screw                                             | ⌀3,5 30mm<br/>(30-35mm)<br/>DIN 7997              | 6      |           |            |      |
-| H04 | Wood screw                                             | ⌀3,5 x 9mm<br/>(9-12mm)<br/>DIN 7996              | 4      |           |            |      |
-
+| H01 | Screw                                                  | M4 25mm<br/>DIN 7985                              | 16     | 0,21PLN   | 3,36PLN    | [Link](https://www.art-nierdzewne.pl/din-7985/925-wkret-m-4x25-din-7985-a2-walcowy-nierdzewny-krzyzak.html) |
+| H02 | Washer                                                 | M4<br/>DIN 125                                    | 16     | 0,05PLN   | 0,80PLN    | [Link](https://www.art-nierdzewne.pl/din-125-plaska/42-m4-din-125-a2-podkladka-plaska-nierdzewna.html) |
+| H03 | Screw                                                  | ⌀3,5 30mm<br/>DIN 7997                            | 6      | 0,15PLN   | 0,90PLN    | [Link](https://www.art-nierdzewne.pl/din-7997-stozkowy-pg/1076-wkret-do-drewna-3-5x30-din-7997-a2-stozkowy-nierdzewny-krzyzak.html) |
+| H04 | Screw                                                  | ⌀3,5 9,5mm<br/>DIN 7981                           | 4      | 0,11PLN   | 0,44PLN    | [Link](https://www.art-nierdzewne.pl/din-7981/1145-blachowkret-3-5x9-5-din-7981-a2-walcowy-nierdzewny-krzyzak.html) |
+|     |                                                        |                                                   |        |           | **488,50PLN** |   |
+ 
 ## Shelf (optional)
 
-| Name                                                   | Spec                                              | Qty    | Price     | Total      | Link |
-| ------------------------------------------------------ | ------------------------------------------------- | ------:| ---------:| ----------:| ---- |
-
+| SKU | Name                                                   | Spec                                              | Qty    | Price     | Total      | Link |
+| --- | ------------------------------------------------------ | ------------------------------------------------- | ------:| ---------:| ----------:| ---- |
 
 - 1 pcs x Ikea 804.000.42 - BURHULT półka 59x20 biały (12,00 PLN)
 - 2 pcs x Ikea 104.177.34 - SIBBHULT wspornik 18x18 biały (8,00 PLN)
