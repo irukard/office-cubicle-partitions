@@ -1,6 +1,6 @@
 # Office cubicle partitions
 
-Affordable office cubicle partitions for 160x80cm desk mounted in non-invasive manner. Lined with sound dampning felt.
+Affordable office cubicle partitions for 160x80cm desk mounted in non-invasive manner. 62cm tall, lined with sound dampning felt to reduce noise and echo in Teams Meeting calls.
 
 # Bill of materials
 
