@@ -24,20 +24,20 @@ Affordable office cubicle partitions for 160x80cm desk mounted in non-invasive m
 | --- | ------------------------------------------------------ | ------------------------------------------------- | ------:| ---------:| ----------:| ---- |
 | A04 | Ikea BURHULT półka 59x20 biały                         | 804.000.42                                        | 1      | 12,00PLN  | 12,00PLN   |      |
 | A05 | Ikea SIBBHULT wspornik 18x18 biały                     | 104.177.34                                        | 2      | 4,00PLN   | 8,00PLN    |      |
-|     |                                                        |                                                   |        |           |            |      |
-|     |                                                        |                                                   |        |           |            |      |
-|     |                                                        |                                                   |        |           |            |      |
+| H05 | Screw                                                  | M4 30mm<br/>DIN 7985                              | 2      |           |            |      |
+| H06 | Screw                                                  | M4 40mm<br/>DIN 7985                              | 2      |           |            |      |
+| H02 | Washer                                                 | M4<br/>DIN 125                                    | 4      | 0,05PLN   | 0,20PLN    | [Link](https://www.art-nierdzewne.pl/din-125-plaska/42-m4-din-125-a2-podkladka-plaska-nierdzewna.html) |
 |     |                                                        |                                                   |        |           |            |      |
 |     |                                                        |                                                   |        |           |            |      |
 |     |                                                        |                                                   |        |           |            |      |
 
-- 2 pcs x M4 40mm Screw (DIN 7985 or similar)
-- 2 pcs x M4 30mm Screw (DIN 7985 or similar)
-- 4 pcs x M4 Washer (DIN 125 or similar)
 - 4 pcs x M4 Nut (DIN 1587 or similar)
 - 2 pcs x ⌀3,5 20mm Wood screw (DIN 7996 or similar)
 - 2 pcs x ⌀3,5 30mm Wood screw (DIN 7996 or similar)
 
 ## Accessories (optional)
 
-- 4 pcs x Ikea 104.369.78 - LÄTTHET haczyk i zacisk (20,00 PLN)
+| SKU | Name                                                   | Spec                                              | Qty    | Price     | Total      | Link |
+| --- | ------------------------------------------------------ | ------------------------------------------------- | ------:| ---------:| ----------:| ---- |
+| A06 | Ikea LÄTTHET haczyk i zacisk                           | 104.369.78                                        | 4      | 5,00PLN   | 20,00PLN   |      |
+
