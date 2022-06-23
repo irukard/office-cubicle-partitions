@@ -1,6 +1,6 @@
 # Office cubicle partitions
 
-Affordable office cubicle partitions for 160x80cm desk mounted in non-invasive manner. 62cm tall, lined with sound dampening felt to reduce noise and echo in Teams Meeting calls.
+Affordable office cubicle partitions for 160x80cm desk mounted in non-invasive manner. Build using Ikea parts, standard hardware and common tools (Ikea Hack). Partitions are taller than usual - 62cm in total. Lined with sound dampening felt to reduce noise and echo in Teams Meeting calls.
 
 # Bill of materials
 
