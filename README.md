@@ -8,14 +8,14 @@ Affordable office cubicle partitions for 160x80cm desk mounted in non-invasive m
 
 | Name                                                   | Spec                                              | Qty    | Price     | Total      | Link |
 | ------------------------------------------------------ | ------------------------------------------------- | ------:| ---------:| ----------:| ---- |
-| Ikea ENKÖPING Cover panel, white wood effect, 62x80 cm | 505.057.57                                        | 4      | 80,00 PLN | 320,00 PLN | [Link](https://www.ikea.com/pl/pl/p/enkoeping-panel-maskujacy-bialy-imitacja-drewna-50505757/) |
-| Ikea SKÅDIS Connector, white                           | 103.207.89                                        | 4      | 15,00 PLN | 60,00 PLN  | [Link](https://www.ikea.com/pl/pl/p/skadis-zlacze-bialy-10320789/) |
-| Ikea SKÅDIS Connector for SKÅDIS pegboards, white      | 404.776.46                                        | 1      | 3,50 PLN  | 3,50 PLN   | [Link](https://www.ikea.com/pl/pl/p/skadis-lacznik-do-tablic-narz-skadis-bialy-40477646/) |
-| Felt with adhesive                                     | 1,5m wide, 650g/m²                                | 1,65 m | 60,30 PLN | 99,50 PLN  | [Link](https://allegro.pl/oferta/filc-samoprzylepny-szary-4-5mm-650g-sztywny-ladny-8577845682) |
-| Screw                                                  | M4 25mm<br/>DIN 7985 or similar                   | 16     |           |            |      |
-| Washer                                                 | M4<br/>DIN 125 or similar                         | 16     |           |            |      |
-| Wood screw                                             | ⌀3,5 30mm<br/> (30-35mm)<br/>DIN 7997 or similar  | 6      |           |            |      |
-| Wood screw                                             | ⌀3,5 x 9mm<br/>(9-12mm) <br/>DIN 7996 or similar  | 4      |           |            |      |
+| Ikea ENKÖPING Cover panel, white wood effect, 62x80 cm | 505.057.57                                        | 4      | 80,00PLN | 320,00PLN | [Link](https://www.ikea.com/pl/pl/p/enkoeping-panel-maskujacy-bialy-imitacja-drewna-50505757/) |
+| Ikea SKÅDIS Connector, white                           | 103.207.89                                        | 4      | 15,00PLN | 60,00PLN  | [Link](https://www.ikea.com/pl/pl/p/skadis-zlacze-bialy-10320789/) |
+| Ikea SKÅDIS Connector for SKÅDIS pegboards, white      | 404.776.46                                        | 1      | 3,50PLN  | 3,50PLN   | [Link](https://www.ikea.com/pl/pl/p/skadis-lacznik-do-tablic-narz-skadis-bialy-40477646/) |
+| Felt with adhesive                                     | 1,5m wide, 650g/m²                                | 1,65 m | 60,30PLN | 99,50PLN  | [Link](https://allegro.pl/oferta/filc-samoprzylepny-szary-4-5mm-650g-sztywny-ladny-8577845682) |
+| Screw                                                  | M4 25mm<br/>DIN 7985                              | 16     |           |            |      |
+| Washer                                                 | M4<br/>DIN 125                                    | 16     |           |            |      |
+| Wood screw                                             | ⌀3,5 30mm<br/>(30-35mm)<br/>DIN 7997              | 6      |           |            |      |
+| Wood screw                                             | ⌀3,5 x 9mm<br/>(9-12mm)<br/>DIN 7996              | 4      |           |            |      |
 
 ## Shelf (optional)
 
