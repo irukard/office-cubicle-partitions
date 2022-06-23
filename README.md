@@ -22,9 +22,15 @@ Affordable office cubicle partitions for 160x80cm desk mounted in non-invasive m
 
 | SKU | Name                                                   | Spec                                              | Qty    | Price     | Total      | Link |
 | --- | ------------------------------------------------------ | ------------------------------------------------- | ------:| ---------:| ----------:| ---- |
+| A04 | Ikea BURHULT półka 59x20 biały                         | 804.000.42                                        | 1      | 12,00PLN  | 12,00PLN   |      |
+| A05 | Ikea SIBBHULT wspornik 18x18 biały                     | 104.177.34                                        | 2      | 4,00PLN   | 8,00PLN    |      |
+|     |                                                        |                                                   |        |           |            |      |
+|     |                                                        |                                                   |        |           |            |      |
+|     |                                                        |                                                   |        |           |            |      |
+|     |                                                        |                                                   |        |           |            |      |
+|     |                                                        |                                                   |        |           |            |      |
+|     |                                                        |                                                   |        |           |            |      |
 
-- 1 pcs x Ikea 804.000.42 - BURHULT półka 59x20 biały (12,00 PLN)
-- 2 pcs x Ikea 104.177.34 - SIBBHULT wspornik 18x18 biały (8,00 PLN)
 - 2 pcs x M4 40mm Screw (DIN 7985 or similar)
 - 2 pcs x M4 30mm Screw (DIN 7985 or similar)
 - 4 pcs x M4 Washer (DIN 125 or similar)
