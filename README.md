@@ -14,7 +14,7 @@ Affordable office cubicle partitions for 160x80cm desk mounted in non-invasive m
 
 | SKU | Name                                                   | Spec                                              | Qty    | Price     | Total      | Link |
 | --- | ------------------------------------------------------ | ------------------------------------------------- | ------:| ---------:| ----------:| ---- |
-| A01 | Ikea ENKÖPING Cover panel, white wood effect, 62x80 cm | 505.057.57                                        | 4      | 80,00PLN  | 320,00PLN  | [Link](https://www.ikea.com/pl/pl/p/enkoeping-panel-maskujacy-bialy-imitacja-drewna-50505757/) |
+| `A01` | Ikea ENKÖPING Cover panel, white wood effect, 62x80 cm | 505.057.57                                        | 4      | 80,00PLN  | 320,00PLN  | [Link](https://www.ikea.com/pl/pl/p/enkoeping-panel-maskujacy-bialy-imitacja-drewna-50505757/) |
 | A02 | Ikea SKÅDIS Connector, white                           | 103.207.89                                        | 4      | 15,00PLN  | 60,00PLN   | [Link](https://www.ikea.com/pl/pl/p/skadis-zlacze-bialy-10320789/) |
 | A03 | Ikea SKÅDIS Connector for SKÅDIS pegboards, white      | 404.776.46                                        | 1      | 3,50PLN   | 3,50PLN    | [Link](https://www.ikea.com/pl/pl/p/skadis-lacznik-do-tablic-narz-skadis-bialy-40477646/) |
 | B01 | Felt with adhesive                                     | 1,5m wide<br/>650g/m²                             | 1,65 m | 60,30PLN  | 99,50PLN   | [Link](https://allegro.pl/oferta/filc-samoprzylepny-szary-4-5mm-650g-sztywny-ladny-8577845682) |
