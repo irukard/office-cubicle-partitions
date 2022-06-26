@@ -4,6 +4,12 @@ Affordable office cubicle partitions for 160x80cm desk mounted in non-invasive m
 
 # Bill of materials
 
+## Suppliers
+
+- A - Ikea
+- B - Varius Bydgoszcz (Allegro)
+- H - www.art-nierdzewne.pl 
+
 ## Partitions
 
 | SKU | Name                                                   | Spec                                              | Qty    | Price     | Total      | Link |
@@ -22,19 +28,19 @@ Affordable office cubicle partitions for 160x80cm desk mounted in non-invasive m
 
 | SKU | Name                                                   | Spec                                              | Qty    | Price     | Total      | Link |
 | --- | ------------------------------------------------------ | ------------------------------------------------- | ------:| ---------:| ----------:| ---- |
-| A04 | Ikea BURHULT półka 59x20 biały                         | 804.000.42                                        | 1      | 12,00PLN  | 12,00PLN   |      |
-| A05 | Ikea SIBBHULT wspornik 18x18 biały                     | 104.177.34                                        | 2      | 4,00PLN   | 8,00PLN    |      |
+| A04 | Ikea BURHULT shelf 59x20 cm white                      | 804.000.42                                        | 1      | 12,00PLN  | 12,00PLN   | [Link](https://www.ikea.com/pl/pl/p/burhult-polka-bialy-80400042/) |
+| A05 | Ikea SIBBHULT bracket 18x18 cm white                   | 104.177.34                                        | 2      | 4,00PLN   | 8,00PLN    | [Link](https://www.ikea.com/pl/pl/p/sibbhult-wspornik-bialy-10417734/) |
 | H05 | Screw                                                  | M4 30mm<br/>DIN 7985                              | 2      | 0,23PLN   | 0,46PLN    | [Link](https://www.art-nierdzewne.pl/din-7985/926-wkret-m-4x30-din-7985-a2-walcowy-nierdzewny-krzyzak.html) |
 | H06 | Screw                                                  | M4 40mm<br/>DIN 7985                              | 2      | 0,32PLN   | 0,64PLN    | [Link](https://www.art-nierdzewne.pl/din-7985/928-wkret-m-4x40-din-7985-a2-walcowy-nierdzewny-krzyzak.html) |
 | H02 | Washer                                                 | M4<br/>DIN 125                                    | 4      | 0,05PLN   | 0,20PLN    | [Link](https://www.art-nierdzewne.pl/din-125-plaska/42-m4-din-125-a2-podkladka-plaska-nierdzewna.html) |
 | H07 | Nut                                                    | M4<br/>DIN 1587                                   | 4      | 0,10PLN   | 0,40PLN    | [Link](https://www.art-nierdzewne.pl/din-1587-kolpakowa/77-m4-din-1587-a2-nakretka-kolpakowa-nierdzewna.html) |
 | H08 | Screw                                                  | ⌀3,5 20mm<br/>DIN 7996                            | 2      | 0,15PLN   | 0,30PLN    | [Link](https://www.art-nierdzewne.pl/din-7996-grzybkowy/1563-wkret-do-drewna-3-5x20-din-7996-a2-grzybkowy-nierdzewny-krzyzak.html) |
 | H09 | Screw                                                  | ⌀3,5 30mm<br/>DIN 7996                            | 2      | 0,17PLN   | 0,34PLN    | [Link](https://www.art-nierdzewne.pl/din-7996-grzybkowy/1564-wkret-do-drewna-3-5x30-din-7996-a2-grzybkowy-nierdzewny-krzyzak.html) |
-|     |                                                        |                                                   |        |           | **PLN** |   |
+|     |                                                        |                                                   |        |           | **22,34 PLN** |   |
 
 ## Accessories (optional)
 
 | SKU | Name                                                   | Spec                                              | Qty    | Price     | Total      | Link |
 | --- | ------------------------------------------------------ | ------------------------------------------------- | ------:| ---------:| ----------:| ---- |
-| A06 | Ikea LÄTTHET haczyk i zacisk                           | 104.369.78                                        | 4      | 5,00PLN   | 20,00PLN   |      |
+| A06 | Ikea LÄTTHET Hook and clip                             | 104.369.78                                        | 4      | 5,00PLN   | 20,00PLN   | [Link](https://www.ikea.com/pl/pl/p/laetthet-haczyk-i-zacisk-10436978/) |
 
